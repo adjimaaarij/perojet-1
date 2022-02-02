@@ -1,0 +1,15 @@
+.jumbotron {
+    background-image: url(white_city.jpg);
+    background-size: cover;
+    height: 700px;
+    color: black;
+    justify-content: center;
+    margin-top: 10px;
+}
+.image {
+    margin-right: 50px;
+    margin-left: 20px;
+}
+.button{
+    border-color: chartreuse;
+}
